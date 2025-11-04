@@ -30,12 +30,12 @@ The data was grouped and sorted by year and month for a clear trend overview.
 
 B) SQL Concepts Applied
 
-- GROUP BY
-- SUM()
-- COUNT(DISTINCT....)
-- YEAR() / MONTH()
-- ORDER BY 
-- WHERE
+    - GROUP BY
+    - SUM()
+    - COUNT(DISTINCT....)
+    - YEAR() / MONTH()
+    - ORDER BY 
+    - WHERE
 C) Insights Drawn
 
     -The highest revenue was recorded in December (₹9,500).
